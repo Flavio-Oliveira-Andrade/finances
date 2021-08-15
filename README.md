@@ -8,5 +8,5 @@ cd nome-projeto
 npm start
 
 ### Gerenciar rotas
-npm install react-rauter-dom
+npm install react-router-dom
 cria HashRouter no index.js
