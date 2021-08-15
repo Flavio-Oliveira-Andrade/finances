@@ -1,17 +1,13 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import React from 'react';
 
-export default class Home extends Component {
-  static propTypes = {
-    prop: PropTypes
-  }
-
-  render() {
-    return (
-      <div>
-        <h1>Home</h1>
-      </div>
-    )
-  }
+function Home() {
+  return (
+    <div >
+      <hi>Home</hi>
+    </div>
+  );
 }
+
+export default Home;
+
 
