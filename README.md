@@ -6,3 +6,7 @@ cd nome-projeto
 
 ### Rodar o projeto em react
 npm start
+
+### Gerenciar rotas
+npm install react-rauter-dom
+cria HashRouter no index.js
