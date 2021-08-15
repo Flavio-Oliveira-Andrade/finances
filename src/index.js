@@ -5,10 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <HashRouter>
-    <App />
-  </HashRouter>,
-  document.getElementById('root')
+  <React.StrictMode>
+    <HashRouter>
+        <App />
+    </HashRouter>
+  </React.StrictMode>,
+  document.getElementById('root'),
 );
 
 
