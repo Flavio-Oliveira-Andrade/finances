@@ -1,4 +1,4 @@
-### sequencia para ciação do prjeto em React
+### sequencia para criação do prjeto em React
 npx create-react -app  nome-app
 
 ### acessando o diretorio do projeto
